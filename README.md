@@ -1,13 +1,8 @@
 <h2 align="center">🚀 Hello everyone! My name is Kudzaishe Pfupajena.</h2>
 <p align="center">I'm a DevOps Engineer from Zimbabwe.
-With a meticulous approach to system architecture and a commitment to industry best practices, I have successfully implemented and optimized Continuous Integration and Continuous Deployment (CI/CD) pipelines. I navigate the intricate landscapes of CI/CD with the finesse of a seasoned pilot, utilizing a toolkit that boasts Docker, Kubernetes, Ansible, Terraform, and more. If it's part of the DevOps ecosystem, you can bet I've delved into its intricacies. </p>
+With a meticulous approach to system architecture and a commitment to industry best practices, I have successfully implemented and optimized a handful of Continuous Integration and Continuous Deployment (CI/CD) pipelines in my career. I navigate the intricate landscapes of CI/CD with the finesse of a seasoned pilot, utilizing a toolkit that boasts Docker, Kubernetes, Ansible, Jenkins, Terraform, and more. If it's part of the DevOps ecosystem, you can bet I've delved into its intricacies. </p>
 
 ## ⚡ Updates
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-
-
 
 - 🔭 I’m currently working on making robust and secure pipelines in my area of work (Banking & Finance) <br/>
 - 🌱 I’m currently learning how to secure CI/CD pipelines under DevSecOps
